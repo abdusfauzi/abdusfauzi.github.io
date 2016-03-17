@@ -1,5 +1,4 @@
-.top-bar-fixed,
-.content-canvas {
+div {
     display: none !important;
 }
 
