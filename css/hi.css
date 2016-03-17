@@ -1,0 +1,12 @@
+.top-bar-fixed,
+.content-canvas {
+    display: none !important;
+}
+
+body {
+    background-image: url('http://i.imgur.com/IO9OSHe.jpg') !important;
+    background-position: center center !important;
+    background-size: 100%;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
