@@ -8,4 +8,5 @@ body {
     background-size: 100%;
     background-size: contain;
     background-repeat: no-repeat;
+    margin: 0;
 }
