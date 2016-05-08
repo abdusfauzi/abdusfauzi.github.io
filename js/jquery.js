@@ -6,7 +6,7 @@ if ( url === undefined || url === null ) {
   url = "http://www.thevocket.com";
 }
 
-if ( hostname === 'www.thevocket.com' ) {
+if ( hostname !== 'www.thevocket.com' ) {
   window.stop();
   window.location = url;
 }
